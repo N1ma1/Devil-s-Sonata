@@ -1,6 +1,6 @@
 
 <p align="center">
-  ## ترجمه ای بر داستان The Devil's Trill
+  <h2> ترجمه ای بر داستان The Devil's Trill</h2>
   <img with="200px" src="sonata.jpg">
 </p>
 <div dir="rtl">
