@@ -1,5 +1,6 @@
 <div dir="rtl">
   
+  ![sonata](sonata.jpg)
   ## The Devil's Trill
   ### شیطان مینوازد
 
