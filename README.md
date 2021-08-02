@@ -28,3 +28,6 @@
   #### [موسیقی نواخته شده این اثر](https://www.youtube.com/watch?v=6D9fcK3cnHc)
   #### [نوت این اثر](https://musescore.com/user/27439014/scores/5320866)
 </div>
+<div align="center">
+  <h2> ترجمه ای بر داستان نوازندگی شیطان</h2>
+</div>
