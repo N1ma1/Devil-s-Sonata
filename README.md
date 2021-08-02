@@ -1,6 +1,6 @@
 
 <p align="center" dir="rtl">
-  <h2> ترجمه ای بر داستان نوازندگی شیطان</h2>
+<!--   <h2> ترجمه ای بر داستان نوازندگی شیطان</h2> -->
   <img with="200px" src="sonata.jpg">
 </p>
 <div dir="rtl">
