@@ -1,5 +1,4 @@
-# Devil-s-Sonata
-ترجمه ای بر داستان The Devil's Trill
+## ترجمه ای بر داستان The Devil's Trill
 
 <p align="center">
   <img with="200px" src="sonata.jpg">
