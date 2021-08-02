@@ -1,6 +1,6 @@
-## ترجمه ای بر داستان The Devil's Trill
 
 <p align="center">
+  ## ترجمه ای بر داستان The Devil's Trill
   <img with="200px" src="sonata.jpg">
 </p>
 <div dir="rtl">
